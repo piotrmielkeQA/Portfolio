@@ -4,7 +4,7 @@
 
 Certified Software Tester with over 4 years of commercial experience in testing both frontend and backend for desktops, web applications. 
 In the current projects, I'm focused on creating automation testing and test management. I'm oriented for further development in Automation Tests.  
- am a software tester with over 4 years of experience in manual testing of desktop and web applications. In the current project, I am developing my skills in automating GUI and API tests.
+
 
 ## Tools used in testing / Tech Stack: 
 
