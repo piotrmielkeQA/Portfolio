@@ -5,18 +5,20 @@
 Certified Software Tester with over 4 years of commercial experience in testing both frontend and backend for desktops, web applications. 
 In the current projects, I'm focused on creating automation testing and test management. I'm oriented for further development in Automation Tests.  
 
-
+## Projects 
+* https://github.com/piotrmielkeQA/cypress-test-ci/tree/er04 (Cypress tests with CI Process with Allure report)
 ## Tools used in testing / Tech Stack: 
 
 * Databases: MS SQL
-* Languages: Java, Python (Test Automation)
-* Testing: Selenium, ReadyAPI, TestComplete, RobotFramework
+* Languages: Java, Python (Test Automation), Javascript
+* Testing: Selenium, ReadyAPI, TestComplete, RobotFramework, Cypress
 * Version Control Systems: Bitbucket, Git, Gitlab
-* CI: Jenkins
-* Other tools: Confluence, JIRA, Trello, TestLink
+* CI: Jenkins, Github Actions
+* Other tools: Confluence, JIRA, Trello, TestLink, Docker
 
 ## Tech skills
-* Creating and maintaining automated functional and visual tests 
+* Creating and maintaining automated functional and visual tests
+* Creating CI process
 * Backend REST API automated test implementation
 * Developing software test plans
 * Executing automated and manual test scripts
@@ -69,6 +71,8 @@ In the current projects, I'm focused on creating automation testing and test man
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+
+
 
 # Articles
 * [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
