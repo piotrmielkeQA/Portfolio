@@ -2,11 +2,11 @@
 
 ## About me
 
-Certified Software Tester with over 4 years of commercial experience in testing both frontend and backend for desktops, web applications. 
+Certified Software Tester with over 5 years of commercial experience in testing both frontend and backend for desktops, web applications. 
 In the current projects, I'm focused on creating automation testing and test management. I'm oriented for further development in Automation Tests.  
 
 ## Projects 
-* https://github.com/piotrmielkeQA/cypress-test-ci/tree/er04 (Cypress tests with CI Process with Allure report)
+* (https://github.com/piotrmielkeQA?tab=repositories)
 ## Tools used in testing / Tech Stack: 
 
 * Databases: MS SQL
