@@ -6,15 +6,16 @@ Certified Software Tester with over 5 years of commercial experience in testing 
 In the current projects, I'm focused on creating automation testing and test management. I'm oriented for further development in Automation Tests.  
 
 ## Projects 
-* (https://github.com/piotrmielkeQA?tab=repositories)
+* [Repositories](https://github.com/piotrmielkeQA?tab=repositories)
+  
 ## Tools used in testing / Tech Stack: 
 
 * Databases: MS SQL
-* Languages: Java, Python (Test Automation), Javascript
-* Testing: Selenium, ReadyAPI, TestComplete, RobotFramework, Cypress
+* Languages: Java, Python, Javascript, Typescript (Knowledge only for creating automatic tests)
+* Testing: Selenium, ReadyAPI, TestComplete, RobotFramework, Cypress, Playwright
 * Version Control Systems: Bitbucket, Git, Gitlab
 * CI: Jenkins, Github Actions
-* Other tools: Confluence, JIRA, Trello, TestLink, Docker
+* Other tools: Confluence, JIRA, Trello, Docker, Github Copilot
 
 ## Tech skills
 * Creating and maintaining automated functional and visual tests
@@ -34,16 +35,12 @@ In the current projects, I'm focused on creating automation testing and test man
 
 ## Courses and trainings
 
-* Selenium WebDriver Java dla początkujących
-* Szkolenie dla QA: Konsola deweloperska 
-* Szkoła Security: Jak znaleźć swoją pierwszą podatność?
-* Testowanie REST API - REST ASSURED Java
-* Udemy: BDD - Cucumber dla początkujących
-* Udemy: Cypress od podstaw - Automatyzacja testów
-* Udemy: Postman - testowanie REST API
 * Scrum Fundamentals
 * Wykorzystanie Jenkins w procesach CI/CD oraz w pracy z kontenerami Docker-owymi
+* Testy wydajnościowe aplikacji internetowych z wykorzystaniem Apache JMeter
+* Wprowadzenie do REST API i testy z wykorzystaniem Postman
 * Tester Akceptacyjny - Szkolenie
+* Cypress Test Automation - Advanced Level 
 
 ## Technical Books read
 
@@ -71,8 +68,6 @@ In the current projects, I'm focused on creating automation testing and test man
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-
-
 
 # Articles
 * [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
